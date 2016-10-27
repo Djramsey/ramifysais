@@ -1,0 +1,17 @@
+body > nav > div > ul{
+    float:right;
+}
+
+body > div > h1{
+    text-align: center;
+}
+
+div.jumbotron{
+background-image: url("spotify-backgroundais.png");
+
+    
+}
+
+body{
+    height:1000px;
+}
