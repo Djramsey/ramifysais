@@ -1,12 +1,13 @@
 body > nav > div > ul{
     float:right;
+    
 }
 
 body > div > h1{
     text-align: center;
 }
 
-div.jumbotron{
+div.main-jumbotron{
 background-image: url("spotify-backgroundais.png");
 
     
@@ -15,3 +16,31 @@ background-image: url("spotify-backgroundais.png");
 body{
     height:1000px;
 }
+
+
+navbar navbar-default navbar-fixed-top{
+    background-color:transparent;
+}
+
+.jumbotron2{
+    
+    padding-top: 150px;
+    padding-bottom: 180px;
+  
+    width:100%;
+    
+}
+.imgais{
+   
+}
+
+.jumbotron3{
+    
+    padding-top:150px;
+  
+    background-image: url("spotify-backgroundais.png");
+    
+    padding-bottom:180px;    
+}
+
+    
